@@ -1,0 +1,15 @@
+regime,feature,mean_abs_shap,share_pct
+1,orifice_size,0.03620485,12.116527
+1,capillary_number,0.06212206,20.790134
+1,flow_rate_ratio,0.13399382,44.843155
+1,aspect_ratio,0.027730435,9.28043
+1,normalized_water_inlet,0.014054792,4.703659
+1,normalized_oil_inlet,0.012970948,4.3409333
+1,expansion_ratio,0.0117285885,3.925158
+2,orifice_size,0.005378236,2.4714513
+2,capillary_number,0.015445261,7.0975327
+2,flow_rate_ratio,0.07984748,36.69217
+2,aspect_ratio,0.010945038,5.0295534
+2,normalized_water_inlet,0.004003505,1.8397235
+2,normalized_oil_inlet,0.0057875104,2.6595242
+2,expansion_ratio,0.09620747,44.210045
